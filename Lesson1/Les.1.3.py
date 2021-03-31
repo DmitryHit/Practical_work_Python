@@ -1,0 +1,5 @@
+a = int(input("Введите пожалуйста любое целое число: "))
+num1 = int(a)
+num2 = int(a + a)
+num3 = int(a + a + a)
+print(f"Результат: {num1 + num2 + num3}")
